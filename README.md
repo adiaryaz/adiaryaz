@@ -15,6 +15,8 @@
 - 💡 I am interested in **systems analysis, database design, and photography**.
 - 🚀 My goal is to **apply technology to create efficient and elegant business solutions**.
 
+  
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Tech Stack & Tools
 
 <p align="left">

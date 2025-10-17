@@ -60,8 +60,6 @@
   &copy; 2025 Adi Arya
 </div>
 
-<img src="https://raw.githubusercontent.com/adiaryaz/adiaryaz/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>

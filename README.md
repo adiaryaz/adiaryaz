@@ -1,11 +1,6 @@
-<p align="left">
-  <a href="https://github.com/adiaryaz?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/adiaryaz?style=social"></a> &nbsp;&nbsp;
-  <a href="https://github.com/adiaryaz?tab=repositories"><img alt="GitHub User's stars" src="https://img.shields.io/github/stars/adiaryaz?style=social"></a>
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2334D399&size=38&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adi+Arya;A+Systems+Analyst+in+the+making;Turning+Ideas+into+Digital+Solutions;Welcome+to+my+Digital+Space!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2334D399&size=38&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adi+Arya" alt="Typing SVG">
   </a>
 </div>
 
@@ -13,14 +8,13 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- 👤 Nama lengkap saya **Adi Arya**
-  <img src="https://media.giphy.com/media/ule4GMc55iWp9Hmgb9/giphy.gif" width="350" align="right"/>
-- 🎓 Saya adalah seorang mahasiswa **Sistem Informasi** di **Universitas Pendidikan Ganesha**.
-- 🌏 Saya tinggal di **Singaraja, Bali, Indonesia**.
-- 💡 Saya tertarik dengan **analisis sistem, desain database, dan fotografi**.
-- 🚀 Tujuan saya adalah **menerapkan teknologi untuk menciptakan solusi bisnis yang efisien dan elegan**.
-- ✨ Kutipan favorit saya: ***"The best way to predict the future is to create it."***
-- 😄 Fakta unik: Saya bisa menghabiskan berjam-jam untuk merancang diagram alur data yang sempurna, lalu beristirahat dengan mencari *angle* foto yang sempurna.
+- 👤 My name is **Adi Arya**
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1emt1bnhtMG1od2xhOHRkc2V2c3I0NXhwbXhzbzV0MW5kOTNmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="350" align="right"/>
+- 🎓 I am an Information Systems student at **Ganesha University of Education**.
+- 🌏 I live in **Bali, Indonesia**.
+- 💡 I am interested in **systems analysis, database design, and photography**.
+- 🚀 My goal is to **apply technology to create efficient and elegant business solutions**.
+- ✨ My favorite quote: ***"The best way to predict the future is to create it."***
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Tech Stack & Tools
 
@@ -51,7 +45,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Find Me On
 
 <p align="center">
-  <a href="mailto:[EMAIL_ANDA@contoh.com]">
+  <a href="mailto:[adiaryazx@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/adiaryaz/" target="_blank">
@@ -63,6 +57,5 @@
 </p>
 
 <div align="center">
-  :heart: Terima kasih sudah berkunjung! Semoga harimu menyenangkan! :wink: <br/>
   &copy; 2025 Adi Arya
 </div>

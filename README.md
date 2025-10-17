@@ -9,7 +9,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 - 👤 My name is **Adi Arya**
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3M1emt1bnhtMG1od2xhOHRkc2V2c3I0NXhwbXhzbzV0MW5kOTNmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="350" align="right"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThlcnJ1ZWw3MHIzMWgwNWducDJjbDhhc3U4NTJuNmJxcjhpN29kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="350" align="right"/>
 - 🎓 I am an Information Systems student at **Ganesha University of Education**.
 - 🌏 I live in **Bali, Indonesia**.
 - 💡 I am interested in **systems analysis, database design, and photography**.

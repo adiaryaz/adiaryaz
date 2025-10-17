@@ -59,3 +59,15 @@
 <div align="center">
   &copy; 2025 Adi Arya
 </div>
+
+<img src="https://raw.githubusercontent.com/adiaryaz/adiaryaz/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adiaryaz/adiaryaz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adiaryaz/adiaryaz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adiaryaz/adiaryaz/output/pacman-contribution-graph.svg">
+</picture>
+
+###

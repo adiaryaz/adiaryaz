@@ -4,61 +4,34 @@
   </a>
 </div>
 
-<br>
+> "Information Systems student"  
+> "Interested in systems analysis, database, design, and photography."
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
+🎉 I just recently finished my portfolio, check it out [here](https://adiaryaz.github.io/AdiArya-Portofolio-Website)<br>🤖 Currently exploring No-Code Web Builder, Generative AI, and n8n Automation<br>
 
-- 👤 My name is **Adi Arya**
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbThlcnJ1ZWw3MHIzMWgwNWducDJjbDhhc3U4NTJuNmJxcjhpN29kZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="350" align="right"/>
-- 🎓 I am an Information Systems student at **Ganesha University of Education**.
-- 🌏 I live in **Bali, Indonesia**.
-- 💡 I am interested in **systems analysis, database design, and photography**.
-- 🚀 My goal is to **apply technology to create efficient and elegant business solutions**.
-- 😄 Fun fact: I can spend hours designing, then take a break by finding the perfect angle.
+`"Hoping AI doesn’t take over my job… but also hoping it finishes my code.."`
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Tech Stack & Tools
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/adiaryaz)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/adiaryaz)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-%23000000.svg?style=flat-square&logo=web&logoColor=white)](https://adiaryaz.github.io/AdiArya-Portofolio-Website)
 
-<p align="left">
-  <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
-  
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-  <a href="#"><img alt="Nextcloud" src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white"></a>
-</p>
+## 💻 Tech Stack
+| **Category**     | **Technologies** |
+|------------------|-------------------|
+| **Languages**    | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/Typescript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) |
+| **Frontend**     | ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=FDFDFE) ![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=flat-square&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=flat-square&logo=shadcnui&logoColor=fff) |
+| **Backend**      | ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-orange?style=flat-square&logo=bun) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) |
+| **Databases**    | ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Cloud**        | ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white) |
+| **Web Builder** | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) |
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="60px" height="50px"> My GitHub Stats
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiaryaz&layout=compact&show_icon=true&theme=tokyonight" alt="adiaryaz-langs"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=adiaryaz&show_icon=true&theme=tokyonight" alt="adiaryaz-stats"/>
-  <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com/?user=adiaryaz&theme=tokyonight" />
-</div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px" height="40px"> Find Me On
-
-<p align="center">
-  <a href="mailto:[adiaryazx@gmail.com]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> &nbsp;
-  <a href="https://www.linkedin.com/in/adiaryaz/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> &nbsp;
-  <a href="https://www.instagram.com/adiaryaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> &nbsp;
-</p>
-
-<div align="center">
-  &copy; 2025 Adi Arya
-</div>
+## 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=adiaryaz&theme=transparent)](https://github.com/adiaryaz)
 
 ###
 
@@ -69,3 +42,7 @@
 </picture>
 
 ###
+
+<div align="center">
+  &copy; 2026 Adi Arya
+</div>

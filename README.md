@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2334D399&size=38&center=true&vCenter=true&width=600&lines=Hello,+I'm+Adi+Arya" alt="Typing SVG">
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2334D399&size=38&vCenter=true&width=600&lines=Hello,+I'm+Adi+Arya" alt="Typing SVG">
+</a>
 
 > "Information Systems student"  
 > "Interested in systems analysis, database, design, and photography."
